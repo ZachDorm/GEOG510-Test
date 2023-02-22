@@ -1,5 +1,6 @@
 # GEOG510-Test
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZachDorm/GEOG510-Test/blob/main/newGEEnotebook.ipynb)
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BW2AhIrDP7yWvvFf_76JYBY789Sw4tfe)
+<!--(https://colab.research.google.com/github/ZachDorm/GEOG510-Test/blob/main/newGEEnotebook.ipynb)-->
 
 This is a test repository that includes my first Jupyter Notebook. It imports ee and geemap to run some raster calculations on the NLCD 2019 dataset.
 The goal of this is to create an environmnt locally and then push it to Github with all dependencies included. This is so cool when it works!
